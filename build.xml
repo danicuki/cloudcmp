@@ -18,7 +18,7 @@
 
     <!-- MODIFY THE FOLLOWING CONFIGURATIONS BEFORE YOU BUILD -->
     <property name="tomcat.dir" value="../tomcat"/>
-    <property name="appengine.dir" value="../appengine"/>
+    <property name="appengine.dir" value="../google_appengine"/>
     <property name="appengine.username" value="!your gmail account!"/>
     <property name="appengine.password" value="!your gmail password!"/>
 
